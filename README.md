@@ -6,48 +6,60 @@
 ### 💻 Languages and Tools
 
 #### Languages:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/python.png"/> Python</td>
+    <td><img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript</td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</td>
+    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java</td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C</td>
+  </tr>
+</table>
 
 #### Web Development:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML5</td>
+    <td><img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3</td>
+    <td><img src="https://img.icons8.com/officel/48/react.png"/> React</td>
+    <td><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js</td>
+    <td><img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/> Flask</td>
+  </tr>
+</table>
 
 #### Database Management:
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/> MySQL</td>
+    <td><img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB</td>
+    <td><img src="https://img.icons8.com/ios-filled/48/000000/sqlite.png"/> SQLite</td>
+  </tr>
+</table>
 
 ---
 
 ### 🤖 Machine Learning & AI:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> TensorFlow</td>
+    <td><img src="https://img.icons8.com/color/48/000000/pytorch.png"/> PyTorch</td>
+    <td><img src="https://img.icons8.com/color/48/000000/numpy.png"/> NumPy</td>
+    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-a-data-analysis-library-for-python-soft-fill-soft-fill-juicy-fish.png"/> Pandas</td>
+    <td><img src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-matplotlib-a-data-visualization-library-for-python-outline-juicy-fish.png"/> Matplotlib</td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tools & Platforms:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/git.png"/> Git</td>
+    <td><img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker</td>
+    <td><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes</td>
+    <td><img src="https://img.icons8.com/color/48/000000/microsoft-azure.png"/> Azure</td>
+  </tr>
+</table>
 
 
 💡 I work on:
