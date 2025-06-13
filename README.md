@@ -21,17 +21,22 @@
 ---
 ---
 
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nensi7&style=flat-square&color=orange)
+
+
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nensi7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nensi7&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nensi7&show_icons=true&theme=tokyonight&count_private=true)
+![Nensi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nensi7&show_icons=true&theme=highcontrast&count_private=true)
 
 ---
 
 ### 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nensi7&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nensi7&layout=compact&theme=highcontrast)
