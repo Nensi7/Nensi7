@@ -56,15 +56,17 @@
 <table>
   <tr>
     <th>TensorFlow</th>
+    <th>PyTorch</th>
     <th>NumPy</th>
     <th>Pandas</th>
     <th>Matplotlib</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/pytorch.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/numpy.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/pandas.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/external-outline-juicy-fish/48/external-matplotlib-a-data-visualization-library-for-python-outline-juicy-fish.png" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></td>
   </tr>
 </table>
 
@@ -76,7 +78,7 @@
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/git.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/microsoft-azure.png" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/></td>
   </tr>
 </table>
 
