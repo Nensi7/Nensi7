@@ -1,4 +1,5 @@
 🚀 About Me
+---
 👋 Hi, I'm **Nensi Chavda** — a Computer Science Student, passionate about blending AI, design, Data Science and real-world impact.
 
 ---
@@ -78,6 +79,8 @@
     <td><img src="https://img.icons8.com/color/48/microsoft-azure.png" width="40"/></td>
   </tr>
 </table>
+
+---
 
 💡 I work on:
 - 🤖 Machine Learning & AI Projects (SVM, CNN, OCR, NLP)
