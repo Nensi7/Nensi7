@@ -3,61 +3,90 @@
 
 ---
 
-### 💻 Languages and Tools
 ---
 
-### 💻 Languages and Tools
+### 🔧 Languages and Tools
 
 #### 🧠 Languages:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-#### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-#### 🗄️ Database Management:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-#### 🤖 Machine Learning & AI:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
----
-
-#### 🧰 Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🧰 Tools & Platforms:
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/git.png"/> Git</td>
-    <td><img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker</td>
-    <td><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes</td>
-    <td><img src="https://img.icons8.com/color/48/000000/microsoft-azure.png"/> Azure</td>
+    <th>Python</th>
+    <th>JavaScript</th>
+    <th>C++</th>
+    <th>Java</th>
+    <th>C</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/python.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/javascript--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/c-programming.png" width="40"/></td>
   </tr>
 </table>
 
+#### 🌐 Web Development:
+<table>
+  <tr>
+    <th>HTML5</th>
+    <th>CSS3</th>
+    <th>React</th>
+    <th>Node.js</th>
+    <th>Flask</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/css3.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/officel/48/react.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/nodejs.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/flask.png" width="40"/></td>
+  </tr>
+</table>
+
+#### 🗄️ Database Management:
+<table>
+  <tr>
+    <th>MySQL</th>
+    <th>MongoDB</th>
+    <th>SQLite</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/mongodb.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="40"/></td>
+  </tr>
+</table>
+
+#### 🤖 Machine Learning & AI:
+<table>
+  <tr>
+    <th>TensorFlow</th>
+    <th>PyTorch</th>
+    <th>NumPy</th>
+    <th>Pandas</th>
+    <th>Matplotlib</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/numpy.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-pandas-a-data-analysis-library-for-python-soft-fill-soft-fill-juicy-fish.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/external-outline-juicy-fish/48/external-matplotlib-a-data-visualization-library-for-python-outline-juicy-fish.png" width="40"/></td>
+  </tr>
+</table>
+
+#### 🧰 Tools & Platforms:
+<table>
+  <tr>
+    <th>Git</th>
+    <th>Docker</th>
+    <th>Kubernetes</th>
+    <th>Azure</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/git.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/microsoft-azure.png" width="40"/></td>
+  </tr>
+</table>
 
 💡 I work on:
 - 🤖 Machine Learning & AI Projects (SVM, CNN, OCR, NLP)
