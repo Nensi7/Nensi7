@@ -17,3 +17,15 @@
 📫 Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/nensi-chavda-b7baa3253/) • [Email](nensichavda7@gmail.com) 
 🔁 Always learning, building, and sharing 💻✨
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nensi7&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+
+### 🚀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nensi7&layout=compact&theme=tokyonight)
