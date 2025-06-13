@@ -61,7 +61,6 @@
 <table>
   <tr>
     <th>TensorFlow</th>
-    <th>PyTorch</th>
     <th>NumPy</th>
     <th>Pandas</th>
     <th>Matplotlib</th>
@@ -78,8 +77,6 @@
 <table>
   <tr>
     <th>Git</th>
-    <th>Docker</th>
-    <th>Kubernetes</th>
     <th>Azure</th>
   </tr>
   <tr>
