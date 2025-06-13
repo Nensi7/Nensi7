@@ -1,8 +1,19 @@
--  Hi, I’m Nensi Chavda 
-- I’m interested in ...data analyst and web development.  
-- I’m looking to collaborate on ...with friend for project 
-  -  How to reach me ... by my linkedin I'd is https://www.linkedin.com/in/nensi-chavda-b7baa3253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+👋 Hi, I'm **Nensi Chavda** — a Computer Science Student, passionate about blending AI, design, Data Science and real-world impact.
 
-<!---
-Nensi7/Nensi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+💡 I work on:
+- 🤖 Machine Learning & AI Projects (SVM, CNN, OCR, NLP)
+- 🛠️ GUI & Desktop Tools using Python and Tkinter
+- 📊 Data Visualization & Dashboards (Power BI, Matplotlib)
+- 🌐 Web Dev Projects using HTML, CSS, JS, PHP
+
+🚀 Recently built:  
+`Aadhaar Image Classifier` — a real-time ID verification system using SVM & OpenCV.
+
+🎯 Currently exploring:
+- Transformer models
+- Streamlit apps
+- AI-based document automation
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/nensi-chavda-b7baa3253/) • [Email](nensichavda7@gmail.com) 
+🔁 Always learning, building, and sharing 💻✨
