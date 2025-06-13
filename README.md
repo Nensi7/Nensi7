@@ -3,8 +3,6 @@
 
 ---
 
----
-
 ### 🔧 Languages and Tools
 
 #### 🧠 Languages:
@@ -31,15 +29,11 @@
     <th>HTML5</th>
     <th>CSS3</th>
     <th>React</th>
-    <th>Node.js</th>
-    <th>Flask</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/css3.png" width="40"/></td>
     <td><img src="https://img.icons8.com/officel/48/react.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/nodejs.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/flask.png" width="40"/></td>
   </tr>
 </table>
 
@@ -68,7 +62,7 @@
   <tr>
     <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/numpy.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-pandas-a-data-analysis-library-for-python-soft-fill-soft-fill-juicy-fish.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/pandas.png" width="40"/></td>
     <td><img src="https://img.icons8.com/external-outline-juicy-fish/48/external-matplotlib-a-data-visualization-library-for-python-outline-juicy-fish.png" width="40"/></td>
   </tr>
 </table>
