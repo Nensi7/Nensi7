@@ -112,6 +112,7 @@
 
 
 📫 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/nensi-chavda-b7baa3253/) • [Email](nensichavda7@gmail.com) 
+• [LinkedIn] (https://www.linkedin.com/in/nensi-chavda-b7baa3253/) 
+• [Email] (nensichavda7@gmail.com) 
 🔁 Always learning, building, and sharing 💻✨
 
