@@ -43,12 +43,10 @@
   <tr>
     <th>MySQL</th>
     <th>MongoDB</th>
-    <th>SQLite</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/mongodb.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="40"/></td>
   </tr>
 </table>
 
@@ -56,14 +54,12 @@
 <table>
   <tr>
     <th>TensorFlow</th>
-    <th>PyTorch</th>
     <th>NumPy</th>
     <th>Pandas</th>
     <th>Matplotlib</th>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/pytorch.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/numpy.png" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></td>
