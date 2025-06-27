@@ -106,7 +106,7 @@
 
 ### 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nensi7&layout=compact&theme=highcontrast&include_all_commits=False&show_repo=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nensi7&layout=compact&theme=highcontrast&include_all_commits=True&show_repo=true)
 
 
 🟢 Power BI (Dashboarding)
